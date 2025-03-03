@@ -1,0 +1,10 @@
+/* Global styles to ensure parent heights are defined */
+html, body {
+  height: 100vh; /* Make sure the root elements have height defined */
+  margin: 0;    /* Remove default margins */
+  padding: 0;
+}
+
+#root {
+  height: 100vh; /* Ensure the React root element has a height */
+}
