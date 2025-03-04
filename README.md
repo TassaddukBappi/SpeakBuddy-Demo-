@@ -39,8 +39,8 @@ Ensure you have **Python 3.8+** and **Node.js 16+** installed.
 ### Backend Setup  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo/backend
+   git clone https://github.com/TassaddukBappi/SpeakBuddy-Demo-.git
+   cd SpeakBuddy-Demo-/backend
 
 2. **Create a virtual environment (optional but recommended)**  
    ```sh
