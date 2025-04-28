@@ -54,6 +54,7 @@ def addData():
 def toMain():
     if request.method == 'POST':
         userName = request.form.get('currentUser').lower()
+        print(userName)
 
 
 # question answer topic
